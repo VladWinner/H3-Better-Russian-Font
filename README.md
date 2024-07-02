@@ -14,6 +14,8 @@
 
 ## Ссылки
 
+[Установить напрямую в Simple Mod Framework](https://hitman-resources.netlify.app/smf-install-link/https://github.com/VladWinner/H3-Better-Russian-Font/releases/latest/download/mod.framework.zip)
+
 [Скачать последнюю версию с GitHub](https://github.com/VladWinner/H3-Better-Russian-Font/releases/latest)
 
 [Страница на Nexus Mods](https://www.nexusmods.com/hitman3/mods/777)
