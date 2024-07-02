@@ -1,0 +1,14 @@
+{
+	"name": "Better Russian Font",
+	"description": "Заменяет шрифт русской локализации на вариант из английской версии и добавляет к нему сопоставимую кириллицу.",
+	"authors": [
+		"Vlad Loktionov"
+	],
+	"version": "1.0.0",
+	"frameworkVersion": "2.0.0",
+	"id": "ruvlad.rusfont",
+	"contentFolders": [
+		"content"
+	],
+	"updateCheck": "https://github.com/VladWinner/H3-Better-Russian-Font/releases/latest/download/updates.json"
+}
