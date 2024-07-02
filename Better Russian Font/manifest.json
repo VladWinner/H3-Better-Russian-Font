@@ -7,7 +7,7 @@
 		"Vlad Loktionov"
 	],
 	"frameworkVersion": "2.15.1",
-	"updateCheck": "https://github.com/VladWinner/H3-Better-Russian-Font/releases/latest/download/updates.json",
+	"updateCheck": "https://raw.githubusercontent.com/VladWinner/H3-Better-Russian-Font/main/updater.json",
 	"options": [
 		{
 			"name": "Vanilla",
