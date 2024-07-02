@@ -1,0 +1,78 @@
+{
+    "tempHash": "00567D0E7EAFC614",
+    "tbluHash": "00F48C1A8E8E68AF",
+    "rootEntity": "a92e0403418be4c7",
+    "entities": {
+        "a92e0403418be4c7": {
+            "parent": null,
+            "name": "FontConfigurationRussian",
+            "factory": "[modules:/zentity.class].pc_entitytype",
+            "blueprint": "[modules:/zentity.class].pc_entityblueprint"
+        },
+        "bec750125366e89b": {
+            "parent": "a92e0403418be4c7",
+            "name": "FontConfiguration",
+            "factory": "[modules:/zfontconfigurationentity.class].pc_entitytype",
+            "blueprint": "[modules:/zfontconfigurationentity.class].pc_entityblueprint",
+            "properties": {
+                "m_aFontLibraries": {
+                    "type": "TArray<SFontLibraryDefinition>",
+                    "value": [
+                        {
+                            "sFontLocaleID": "ru",
+                            "m_aFontDefinitions": [
+                                {
+                                    "sFontId": "$normal",
+                                    "sFontName": "Neue Haas Grotesk Display Pro 55 Roman",
+                                    "eFontFlags": "FV_Original",
+                                    "fScaleFactor": 1
+                                },
+                                {
+                                    "sFontId": "$bold",
+                                    "sFontName": "Neue Haas Grotesk Display Pro 75 Bold",
+                                    "eFontFlags": "FV_Bold",
+                                    "fScaleFactor": 1
+                                },
+                                {
+                                    "sFontId": "$light",
+                                    "sFontName": "Neue Haas Grotesk Display Pro 35 Extra Light",
+                                    "eFontFlags": "FV_Original",
+                                    "fScaleFactor": 1
+                                },
+                                {
+                                    "sFontId": "$medium",
+                                    "sFontName": "Neue Haas Grotesk Display Pro 65 Medium",
+                                    "eFontFlags": "FV_Original",
+                                    "fScaleFactor": 1
+                                },
+                                {
+                                    "sFontId": "$global",
+                                    "sFontName": "Noto Sans Hitman2 SemiCondensed Bold",
+                                    "eFontFlags": "FV_Bold",
+                                    "fScaleFactor": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "m_resourceId": {
+                    "type": "ZRuntimeResourceID",
+                    "value": {
+                        "resource": "[assembly:/ui/fonts/fonts_rus.swf].pc_swf",
+                        "flag": "9F"
+                    }
+                }
+            }
+        }
+    },
+    "propertyOverrides": [],
+    "overrideDeletes": [],
+    "pinConnectionOverrides": [],
+    "pinConnectionOverrideDeletes": [],
+    "externalScenes": [],
+    "subType": "template",
+    "quickEntityVersion": 3.1,
+    "extraFactoryDependencies": [],
+    "extraBlueprintDependencies": [],
+    "comments": []
+}
